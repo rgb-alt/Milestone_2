@@ -7,3 +7,4 @@ PAL Review Analysis
 - Spot outliers & patterns  
 
 **Tools:** Python (Pandas, NumPy), Seaborn, Matplotlib  
+https://www.kaggle.com/datasets/vonnwong/philippine-airlines-reviews-dataset/data
