@@ -1,5 +1,5 @@
 # Milestone 2: End-to-end Data Analysis & Visualization Project
-PAL review Analysis
+PAL Review Analysis
 ## 🔎 EDA
 - Clean data 
 - Summarize stats & distributions  
