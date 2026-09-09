@@ -1,0 +1,892 @@
+,Aircraft,Type Of Traveller,Trip Verified,Seat Type,Route,Date Flown,Seat Comfort,Cabin Staff Service,Food & Beverages,Inflight Entertainment,Ground Service,Value For Money,Wifi & Connectivity,Recommended
+0,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+1,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+2,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+3,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+4,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+5,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+6,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+7,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+8,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+9,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+10,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+11,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+12,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+13,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+14,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+15,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+16,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+17,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+18,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+19,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+20,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+21,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+22,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+23,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+24,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+25,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+26,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+27,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+28,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+29,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+30,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+31,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+32,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+33,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+34,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+35,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+36,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+37,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+38,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+39,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+40,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+41,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+42,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+43,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+44,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+45,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+46,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+47,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+48,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+49,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+50,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+51,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+52,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+53,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+54,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+55,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+56,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+57,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+58,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+59,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+60,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+61,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+62,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+63,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+64,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+65,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+66,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+67,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+68,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+69,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+70,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+71,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+72,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+73,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+74,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+75,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+76,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+77,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+78,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+79,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+80,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+81,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+82,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+83,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+84,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+85,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+86,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+87,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+88,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+89,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+90,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+91,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+92,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+93,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+94,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+95,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+96,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+97,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+98,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+99,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+100,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+101,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+102,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+103,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+104,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+105,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+106,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+107,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+108,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+109,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+110,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+111,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+112,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+113,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+114,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+115,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+116,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+117,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+118,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+119,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+120,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+121,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+122,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+123,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+124,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+125,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+126,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+127,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+128,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+129,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+130,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+131,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+132,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+133,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+134,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+135,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+136,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+137,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+138,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+139,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+140,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+141,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+142,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+143,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+144,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+145,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+146,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+147,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+148,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+149,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+150,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+151,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+152,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+153,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+154,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+155,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+156,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+157,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+158,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+159,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+160,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+161,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+162,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+163,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+164,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+165,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+166,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+167,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+168,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+169,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+170,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+171,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+172,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+173,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+174,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+175,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+176,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+177,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+178,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+179,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+180,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+181,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+182,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+183,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+184,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+185,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+186,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+187,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+188,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+189,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+190,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+191,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+192,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+193,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+194,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+195,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+196,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+197,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+198,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+199,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+200,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+201,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+202,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+203,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+204,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+205,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+206,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+207,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+208,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+209,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+210,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+211,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+212,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+213,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+214,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+215,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+216,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+217,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+218,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+219,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+220,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+221,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+222,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+223,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+224,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+225,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+226,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+227,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+228,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+229,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+230,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+231,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+232,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+233,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+234,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+235,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+236,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+237,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+238,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+239,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+240,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+241,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+242,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+243,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+244,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+245,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+246,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+247,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+248,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+249,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+250,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+251,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+252,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+253,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+254,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+255,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+256,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+257,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+258,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+259,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+260,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+261,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+262,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+263,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+264,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+265,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+266,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+267,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+268,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+269,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+270,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+271,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+272,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+273,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+274,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+275,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+276,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+277,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+278,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+279,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+280,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+281,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+282,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+283,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+284,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+285,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+286,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+287,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+288,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+289,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+290,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+291,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+292,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+293,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+294,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+295,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+296,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+297,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+298,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+299,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+300,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+301,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+302,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+303,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+304,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+305,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+306,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+307,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+308,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+309,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+310,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+311,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+312,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+313,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+314,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+315,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+316,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+317,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+318,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+319,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+320,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+321,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+322,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+323,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+324,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+325,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+326,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+327,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+328,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+329,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+330,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+331,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+332,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+333,NA,Couple Leisure,Yes,Economy Class,Vancouver to Manila,2019-12-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+334,A321-200 Neo,Business,Yes,Economy Class,Manila to Nagoya,2020-02-01,5.0,4.0,3.0,5.0,5.0,4,0.0,yes
+335,NA,Solo Leisure,Yes,Economy Class,Manila to London,2020-02-01,4.0,5.0,5.0,5.0,5.0,5,0.0,yes
+336,NA,Solo Leisure,Yes,Economy Class,Tokyo to Bali via Manila,2020-02-01,2.0,3.0,3.0,0.0,1.0,2,0.0,no
+337,A322,Solo Leisure,Yes,Premium Economy,NA,2020-02-01,4.0,5.0,5.0,1.0,5.0,5,0.0,yes
+338,A321,Family Leisure,Yes,Economy Class,Manila to Tokyo Narita,2020-01-01,4.0,5.0,4.0,2.0,3.0,4,0.0,yes
+339,NA,Solo Leisure,Yes,Economy Class,Manila to Dammam,2019-07-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+340,A350-900,Solo Leisure,Yes,Business Class,Manila to Toronto,2019-08-01,5.0,5.0,5.0,5.0,4.0,5,5.0,yes
+341,NA,Solo Leisure,Yes,Economy Class,Auckland to Osaka via Manila,2020-01-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+342,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+343,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+344,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+345,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+346,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+347,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+348,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+349,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+350,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+351,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+352,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+353,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+354,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+355,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+356,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+357,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+358,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+359,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+360,NA,Couple Leisure,Yes,Economy Class,Vancouver to Manila,2019-12-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+361,A321-200 Neo,Business,Yes,Economy Class,Manila to Nagoya,2020-02-01,5.0,4.0,3.0,5.0,5.0,4,0.0,yes
+362,NA,Solo Leisure,Yes,Economy Class,Manila to London,2020-02-01,4.0,5.0,5.0,5.0,5.0,5,0.0,yes
+363,NA,Solo Leisure,Yes,Economy Class,Tokyo to Bali via Manila,2020-02-01,2.0,3.0,3.0,0.0,1.0,2,0.0,no
+364,A322,Solo Leisure,Yes,Premium Economy,NA,2020-02-01,4.0,5.0,5.0,1.0,5.0,5,0.0,yes
+365,A321,Family Leisure,Yes,Economy Class,Manila to Tokyo Narita,2020-01-01,4.0,5.0,4.0,2.0,3.0,4,0.0,yes
+366,NA,Solo Leisure,Yes,Economy Class,Manila to Dammam,2019-07-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+367,A350-900,Solo Leisure,Yes,Business Class,Manila to Toronto,2019-08-01,5.0,5.0,5.0,5.0,4.0,5,5.0,yes
+368,NA,Solo Leisure,Yes,Economy Class,Auckland to Osaka via Manila,2020-01-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+369,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+370,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+371,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+372,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+373,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+374,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+375,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+376,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+377,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+378,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+379,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+380,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+381,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+382,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+383,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+384,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+385,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+386,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+387,NA,Solo Leisure,Yes,Business Class,Bangkok to Manila,2022-05-01,2.0,5.0,4.0,1.0,1.0,1,1.0,no
+388,NA,Family Leisure,Yes,Economy Class,Bangkok to San Francisco via Manila,2022-04-01,1.0,2.0,2.0,2.0,1.0,2,1.0,no
+389,NA,Solo Leisure,Yes,Economy Class,Ho Chi Minh City to San Francisco via Manila,2022-05-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+390,A330,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2022-04-01,4.0,5.0,4.0,0.0,5.0,5,0.0,yes
+391,NA,Solo Leisure,Yes,Economy Class,Dubai to Manila,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+392,NA,Family Leisure,Yes,Economy Class,Sydney to Manila,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+393,NA,Family Leisure,Yes,Economy Class,Manila to Fukuoka,2020-03-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+394,A321,Solo Leisure,No,Economy Class,Singapore to Manila,2022-03-01,1.0,3.0,2.0,0.0,1.0,1,0.0,no
+395,NA,Family Leisure,Yes,Economy Class,Brisbane to Manila,2022-03-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+396,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+397,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+398,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+399,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+400,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+401,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+402,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+403,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+404,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+405,NA,Couple Leisure,Yes,Economy Class,Vancouver to Manila,2019-12-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+406,A321-200 Neo,Business,Yes,Economy Class,Manila to Nagoya,2020-02-01,5.0,4.0,3.0,5.0,5.0,4,0.0,yes
+407,NA,Solo Leisure,Yes,Economy Class,Manila to London,2020-02-01,4.0,5.0,5.0,5.0,5.0,5,0.0,yes
+408,NA,Solo Leisure,Yes,Economy Class,Tokyo to Bali via Manila,2020-02-01,2.0,3.0,3.0,0.0,1.0,2,0.0,no
+409,A322,Solo Leisure,Yes,Premium Economy,NA,2020-02-01,4.0,5.0,5.0,1.0,5.0,5,0.0,yes
+410,A321,Family Leisure,Yes,Economy Class,Manila to Tokyo Narita,2020-01-01,4.0,5.0,4.0,2.0,3.0,4,0.0,yes
+411,NA,Solo Leisure,Yes,Economy Class,Manila to Dammam,2019-07-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+412,A350-900,Solo Leisure,Yes,Business Class,Manila to Toronto,2019-08-01,5.0,5.0,5.0,5.0,4.0,5,5.0,yes
+413,NA,Solo Leisure,Yes,Economy Class,Auckland to Osaka via Manila,2020-01-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+414,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+415,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+416,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+417,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+418,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+419,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+420,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+421,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+422,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+423,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+424,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+425,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+426,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+427,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+428,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+429,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+430,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+431,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+432,NA,Solo Leisure,Yes,Business Class,Bangkok to Manila,2022-05-01,2.0,5.0,4.0,1.0,1.0,1,1.0,no
+433,NA,Family Leisure,Yes,Economy Class,Bangkok to San Francisco via Manila,2022-04-01,1.0,2.0,2.0,2.0,1.0,2,1.0,no
+434,NA,Solo Leisure,Yes,Economy Class,Ho Chi Minh City to San Francisco via Manila,2022-05-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+435,A330,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2022-04-01,4.0,5.0,4.0,0.0,5.0,5,0.0,yes
+436,NA,Solo Leisure,Yes,Economy Class,Dubai to Manila,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+437,NA,Family Leisure,Yes,Economy Class,Sydney to Manila,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+438,NA,Family Leisure,Yes,Economy Class,Manila to Fukuoka,2020-03-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+439,A321,Solo Leisure,No,Economy Class,Singapore to Manila,2022-03-01,1.0,3.0,2.0,0.0,1.0,1,0.0,no
+440,NA,Family Leisure,Yes,Economy Class,Brisbane to Manila,2022-03-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+441,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+442,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+443,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+444,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+445,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+446,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+447,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+448,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+449,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+450,NA,Couple Leisure,Yes,Economy Class,Vancouver to Manila,2019-12-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+451,A321-200 Neo,Business,Yes,Economy Class,Manila to Nagoya,2020-02-01,5.0,4.0,3.0,5.0,5.0,4,0.0,yes
+452,NA,Solo Leisure,Yes,Economy Class,Manila to London,2020-02-01,4.0,5.0,5.0,5.0,5.0,5,0.0,yes
+453,NA,Solo Leisure,Yes,Economy Class,Tokyo to Bali via Manila,2020-02-01,2.0,3.0,3.0,0.0,1.0,2,0.0,no
+454,A322,Solo Leisure,Yes,Premium Economy,NA,2020-02-01,4.0,5.0,5.0,1.0,5.0,5,0.0,yes
+455,A321,Family Leisure,Yes,Economy Class,Manila to Tokyo Narita,2020-01-01,4.0,5.0,4.0,2.0,3.0,4,0.0,yes
+456,NA,Solo Leisure,Yes,Economy Class,Manila to Dammam,2019-07-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+457,A350-900,Solo Leisure,Yes,Business Class,Manila to Toronto,2019-08-01,5.0,5.0,5.0,5.0,4.0,5,5.0,yes
+458,NA,Solo Leisure,Yes,Economy Class,Auckland to Osaka via Manila,2020-01-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+459,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+460,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+461,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+462,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+463,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+464,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+465,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+466,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+467,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+468,NA,Solo Leisure,Yes,Economy Class,Singapore to Melbourne via Manila,2022-09-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+469,NA,Solo Leisure,Yes,Economy Class,Puerto Princesa to Cebu,2022-09-01,0.0,0.0,0.0,0.0,2.0,2,0.0,no
+470,NA,Couple Leisure,No,Economy Class,Dubai to Melbourne via Manila,2022-09-01,1.0,2.0,2.0,1.0,1.0,1,1.0,no
+471,NA,Couple Leisure,Yes,Economy Class,Manila to Los Angeles,2022-04-01,1.0,2.0,1.0,1.0,1.0,1,2.0,no
+472,Boeing 777,Solo Leisure,Yes,Economy Class,Manila to Los Angeles ,2022-09-01,3.0,3.0,4.0,3.0,1.0,1,0.0,no
+473,NA,Solo Leisure,Yes,Economy Class,Ho chi Minh City to Los Angeles via Manila,2022-09-01,1.0,1.0,1.0,5.0,1.0,1,1.0,no
+474,NA,Family Leisure,Yes,Economy Class,Kuala Lumpur to Caticlan via Manila,2022-09-01,1.0,2.0,0.0,0.0,1.0,1,0.0,no
+475,NA,Solo Leisure,Yes,Economy Class,Phnomh Pen to San Francisco via Manila,2022-09-01,3.0,5.0,2.0,3.0,1.0,2,3.0,no
+476,NA,Solo Leisure,No,Economy Class,Sydney to Los Angeles via Manila,2022-08-01,1.0,2.0,1.0,0.0,1.0,1,0.0,no
+477,NA,Solo Leisure,Yes,Business Class,Bangkok to Manila,2022-05-01,2.0,5.0,4.0,1.0,1.0,1,1.0,no
+478,NA,Family Leisure,Yes,Economy Class,Bangkok to San Francisco via Manila,2022-04-01,1.0,2.0,2.0,2.0,1.0,2,1.0,no
+479,NA,Solo Leisure,Yes,Economy Class,Ho Chi Minh City to San Francisco via Manila,2022-05-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+480,A330,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2022-04-01,4.0,5.0,4.0,0.0,5.0,5,0.0,yes
+481,NA,Solo Leisure,Yes,Economy Class,Dubai to Manila,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+482,NA,Family Leisure,Yes,Economy Class,Sydney to Manila,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+483,NA,Family Leisure,Yes,Economy Class,Manila to Fukuoka,2020-03-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+484,A321,Solo Leisure,No,Economy Class,Singapore to Manila,2022-03-01,1.0,3.0,2.0,0.0,1.0,1,0.0,no
+485,NA,Family Leisure,Yes,Economy Class,Brisbane to Manila,2022-03-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+486,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+487,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+488,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+489,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+490,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+491,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+492,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+493,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+494,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+495,NA,Family Leisure,No,Business Class,Bangkok to Los Angeles via Manila,2022-08-01,2.0,2.0,1.0,1.0,1.0,1,1.0,no
+496,NA,Solo Leisure,Yes,Economy Class,San Francisco to Manila,2022-08-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+497,NA,Family Leisure,Yes,Economy Class,Los Angeles to Manila,2022-08-01,1.0,1.0,1.0,1.0,2.0,1,1.0,no
+498,A321,Business,Yes,Economy Class,Manila to Jakarta,2022-05-01,4.0,5.0,5.0,4.0,2.0,5,0.0,yes
+499,NA,Solo Leisure,Yes,Economy Class,Manilla to Laoag International Airport,2022-07-01,4.0,5.0,4.0,0.0,3.0,5,0.0,yes
+500,NA,Solo Leisure,Yes,Economy Class,Melbourne to Cebu via Manila,2022-07-01,2.0,4.0,3.0,3.0,2.0,2,1.0,no
+501,Boeing 777,Solo Leisure,Yes,Economy Class,Los Angeles to Cebu via Manila,2022-04-01,3.0,4.0,3.0,3.0,1.0,1,3.0,no
+502,NA,Solo Leisure,No,Economy Class,Sydney to Jakarta via Manila,2022-07-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+503,Boeing 777-200ER,Couple Leisure,Yes,Business Class,Manila to Los Angeles,2022-07-01,2.0,4.0,4.0,2.0,1.0,1,1.0,no
+504,NA,Solo Leisure,No,Economy Class,Cebu to Clark,2019-12-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+505,NA,Family Leisure,Yes,Economy Class,Manila to Cebu,2019-12-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+506,Boeing 777,Couple Leisure,Yes,Economy Class,Vancouver to Manila,2019-11-01,5.0,5.0,5.0,5.0,5.0,5,0.0,yes
+507,NA,Couple Leisure,Yes,Economy Class,Dubai to Manila,2019-11-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+508,Boeing 777,Couple Leisure,Yes,Business Class,Manila to San Francisco,2019-11-01,5.0,5.0,5.0,4.0,4.0,4,4.0,yes
+509,A320,Solo Leisure,No,Economy Class,Dumaguete to Manila,2019-11-01,2.0,3.0,2.0,0.0,2.0,2,0.0,no
+510,NA,Couple Leisure,Yes,Economy Class,Manila to Melbourne ,2019-09-01,3.0,4.0,3.0,4.0,3.0,4,0.0,yes
+511,NA,Solo Leisure,Yes,Economy Class,Honolulu to Manila,2019-11-01,3.0,1.0,1.0,3.0,3.0,2,3.0,no
+512,NA,Business,Yes,Economy Class,Bangkok to Manila,2019-10-01,4.0,4.0,3.0,5.0,5.0,5,0.0,yes
+513,NA,Couple Leisure,Yes,Economy Class,Vancouver to Manila,2019-12-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+514,A321-200 Neo,Business,Yes,Economy Class,Manila to Nagoya,2020-02-01,5.0,4.0,3.0,5.0,5.0,4,0.0,yes
+515,NA,Solo Leisure,Yes,Economy Class,Manila to London,2020-02-01,4.0,5.0,5.0,5.0,5.0,5,0.0,yes
+516,NA,Solo Leisure,Yes,Economy Class,Tokyo to Bali via Manila,2020-02-01,2.0,3.0,3.0,0.0,1.0,2,0.0,no
+517,A322,Solo Leisure,Yes,Premium Economy,NA,2020-02-01,4.0,5.0,5.0,1.0,5.0,5,0.0,yes
+518,A321,Family Leisure,Yes,Economy Class,Manila to Tokyo Narita,2020-01-01,4.0,5.0,4.0,2.0,3.0,4,0.0,yes
+519,NA,Solo Leisure,Yes,Economy Class,Manila to Dammam,2019-07-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+520,A350-900,Solo Leisure,Yes,Business Class,Manila to Toronto,2019-08-01,5.0,5.0,5.0,5.0,4.0,5,5.0,yes
+521,NA,Solo Leisure,Yes,Economy Class,Auckland to Osaka via Manila,2020-01-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+522,NA,Family Leisure,Yes,Economy Class,Sydney to Manila,2021-12-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+523,NA,Family Leisure,Yes,Economy Class,Toronto to Manila via Vancouver,2021-12-01,3.0,4.0,3.0,4.0,2.0,1,0.0,no
+524,NA,Couple Leisure,Yes,Economy Class,London to Manila,2020-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+525,NA,Solo Leisure,Yes,Business Class,Melbourne to Manila,2020-09-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+526,NA,Family Leisure,No,Economy Class,Toronto to Kuala Lumpur via Manila,2020-09-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+527,NA,Solo Leisure,Yes,Economy Class,Vancouver to Manila,2020-07-01,4.0,4.0,0.0,0.0,3.0,1,0.0,no
+528,NA,Solo Leisure,Yes,Economy Class,Dammam to Manila,2020-11-01,3.0,3.0,3.0,3.0,3.0,3,3.0,no
+529,NA,Solo Leisure,Yes,Economy Class,Manila to Brisbane,2020-12-01,4.0,5.0,4.0,0.0,5.0,5,0.0,yes
+530,NA,Solo Leisure,Yes,Economy Class,Tokyo Narita to Cebu,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+531,A321neo,Family Leisure,Yes,Economy Class,Melbourne to Manila,2022-05-01,4.0,2.0,2.0,3.0,5.0,4,2.0,yes
+532,A321,Business,Yes,Economy Class,Jakarta to Manila,2022-06-01,1.0,4.0,2.0,1.0,2.0,1,1.0,no
+533,NA,Business,Yes,Economy Class,Manila to Ho Chi Minh City,2021-11-01,3.0,5.0,2.0,2.0,1.0,1,1.0,no
+534,A320,Solo Leisure,Yes,Economy Class,Manila to Panglao,2022-05-01,4.0,5.0,3.0,0.0,5.0,5,0.0,yes
+535,NA,Couple Leisure,Yes,Business Class,Los Angeles to Australia via Manila,2022-05-01,5.0,5.0,5.0,3.0,1.0,3,1.0,no
+536,NA,Business,No,First Class,Los Angeles to Hong Kong via Manila,2022-05-01,3.0,1.0,1.0,1.0,2.0,2,2.0,no
+537,Boeing 777 / A330 ,Family Leisure,No,Economy Class,Chicago to Manila,2022-04-01,2.0,3.0,3.0,3.0,1.0,2,0.0,no
+538,DHC-8 Dash 8,Solo Leisure,Yes,Economy Class,Legazpi to Manila,2022-05-01,5.0,5.0,4.0,0.0,5.0,5,0.0,yes
+539,A320,Family Leisure,Yes,Economy Class,Manila to Caticlan (Boracay),2022-05-01,4.0,4.0,3.0,0.0,5.0,5,0.0,yes
+540,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+541,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+542,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+543,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+544,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+545,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+546,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+547,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+548,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+549,NA,Solo Leisure,Yes,Economy Class,Singapore to Melbourne via Manila,2022-09-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+550,NA,Solo Leisure,Yes,Economy Class,Puerto Princesa to Cebu,2022-09-01,0.0,0.0,0.0,0.0,2.0,2,0.0,no
+551,NA,Couple Leisure,No,Economy Class,Dubai to Melbourne via Manila,2022-09-01,1.0,2.0,2.0,1.0,1.0,1,1.0,no
+552,NA,Couple Leisure,Yes,Economy Class,Manila to Los Angeles,2022-04-01,1.0,2.0,1.0,1.0,1.0,1,2.0,no
+553,Boeing 777,Solo Leisure,Yes,Economy Class,Manila to Los Angeles ,2022-09-01,3.0,3.0,4.0,3.0,1.0,1,0.0,no
+554,NA,Solo Leisure,Yes,Economy Class,Ho chi Minh City to Los Angeles via Manila,2022-09-01,1.0,1.0,1.0,5.0,1.0,1,1.0,no
+555,NA,Family Leisure,Yes,Economy Class,Kuala Lumpur to Caticlan via Manila,2022-09-01,1.0,2.0,0.0,0.0,1.0,1,0.0,no
+556,NA,Solo Leisure,Yes,Economy Class,Phnomh Pen to San Francisco via Manila,2022-09-01,3.0,5.0,2.0,3.0,1.0,2,3.0,no
+557,NA,Solo Leisure,No,Economy Class,Sydney to Los Angeles via Manila,2022-08-01,1.0,2.0,1.0,0.0,1.0,1,0.0,no
+558,NA,Solo Leisure,Yes,Business Class,Bangkok to Manila,2022-05-01,2.0,5.0,4.0,1.0,1.0,1,1.0,no
+559,NA,Family Leisure,Yes,Economy Class,Bangkok to San Francisco via Manila,2022-04-01,1.0,2.0,2.0,2.0,1.0,2,1.0,no
+560,NA,Solo Leisure,Yes,Economy Class,Ho Chi Minh City to San Francisco via Manila,2022-05-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+561,A330,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2022-04-01,4.0,5.0,4.0,0.0,5.0,5,0.0,yes
+562,NA,Solo Leisure,Yes,Economy Class,Dubai to Manila,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+563,NA,Family Leisure,Yes,Economy Class,Sydney to Manila,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+564,NA,Family Leisure,Yes,Economy Class,Manila to Fukuoka,2020-03-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+565,A321,Solo Leisure,No,Economy Class,Singapore to Manila,2022-03-01,1.0,3.0,2.0,0.0,1.0,1,0.0,no
+566,NA,Family Leisure,Yes,Economy Class,Brisbane to Manila,2022-03-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+567,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+568,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+569,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+570,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+571,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+572,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+573,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+574,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+575,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+576,NA,Family Leisure,No,Business Class,Bangkok to Los Angeles via Manila,2022-08-01,2.0,2.0,1.0,1.0,1.0,1,1.0,no
+577,NA,Solo Leisure,Yes,Economy Class,San Francisco to Manila,2022-08-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+578,NA,Family Leisure,Yes,Economy Class,Los Angeles to Manila,2022-08-01,1.0,1.0,1.0,1.0,2.0,1,1.0,no
+579,A321,Business,Yes,Economy Class,Manila to Jakarta,2022-05-01,4.0,5.0,5.0,4.0,2.0,5,0.0,yes
+580,NA,Solo Leisure,Yes,Economy Class,Manilla to Laoag International Airport,2022-07-01,4.0,5.0,4.0,0.0,3.0,5,0.0,yes
+581,NA,Solo Leisure,Yes,Economy Class,Melbourne to Cebu via Manila,2022-07-01,2.0,4.0,3.0,3.0,2.0,2,1.0,no
+582,Boeing 777,Solo Leisure,Yes,Economy Class,Los Angeles to Cebu via Manila,2022-04-01,3.0,4.0,3.0,3.0,1.0,1,3.0,no
+583,NA,Solo Leisure,No,Economy Class,Sydney to Jakarta via Manila,2022-07-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+584,Boeing 777-200ER,Couple Leisure,Yes,Business Class,Manila to Los Angeles,2022-07-01,2.0,4.0,4.0,2.0,1.0,1,1.0,no
+585,NA,Solo Leisure,No,Economy Class,Cebu to Clark,2019-12-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+586,NA,Family Leisure,Yes,Economy Class,Manila to Cebu,2019-12-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+587,Boeing 777,Couple Leisure,Yes,Economy Class,Vancouver to Manila,2019-11-01,5.0,5.0,5.0,5.0,5.0,5,0.0,yes
+588,NA,Couple Leisure,Yes,Economy Class,Dubai to Manila,2019-11-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+589,Boeing 777,Couple Leisure,Yes,Business Class,Manila to San Francisco,2019-11-01,5.0,5.0,5.0,4.0,4.0,4,4.0,yes
+590,A320,Solo Leisure,No,Economy Class,Dumaguete to Manila,2019-11-01,2.0,3.0,2.0,0.0,2.0,2,0.0,no
+591,NA,Couple Leisure,Yes,Economy Class,Manila to Melbourne ,2019-09-01,3.0,4.0,3.0,4.0,3.0,4,0.0,yes
+592,NA,Solo Leisure,Yes,Economy Class,Honolulu to Manila,2019-11-01,3.0,1.0,1.0,3.0,3.0,2,3.0,no
+593,NA,Business,Yes,Economy Class,Bangkok to Manila,2019-10-01,4.0,4.0,3.0,5.0,5.0,5,0.0,yes
+594,NA,Couple Leisure,Yes,Economy Class,Vancouver to Manila,2019-12-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+595,A321-200 Neo,Business,Yes,Economy Class,Manila to Nagoya,2020-02-01,5.0,4.0,3.0,5.0,5.0,4,0.0,yes
+596,NA,Solo Leisure,Yes,Economy Class,Manila to London,2020-02-01,4.0,5.0,5.0,5.0,5.0,5,0.0,yes
+597,NA,Solo Leisure,Yes,Economy Class,Tokyo to Bali via Manila,2020-02-01,2.0,3.0,3.0,0.0,1.0,2,0.0,no
+598,A322,Solo Leisure,Yes,Premium Economy,NA,2020-02-01,4.0,5.0,5.0,1.0,5.0,5,0.0,yes
+599,A321,Family Leisure,Yes,Economy Class,Manila to Tokyo Narita,2020-01-01,4.0,5.0,4.0,2.0,3.0,4,0.0,yes
+600,NA,Solo Leisure,Yes,Economy Class,Manila to Dammam,2019-07-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+601,A350-900,Solo Leisure,Yes,Business Class,Manila to Toronto,2019-08-01,5.0,5.0,5.0,5.0,4.0,5,5.0,yes
+602,NA,Solo Leisure,Yes,Economy Class,Auckland to Osaka via Manila,2020-01-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+603,NA,Family Leisure,Yes,Economy Class,Sydney to Manila,2021-12-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+604,NA,Family Leisure,Yes,Economy Class,Toronto to Manila via Vancouver,2021-12-01,3.0,4.0,3.0,4.0,2.0,1,0.0,no
+605,NA,Couple Leisure,Yes,Economy Class,London to Manila,2020-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+606,NA,Solo Leisure,Yes,Business Class,Melbourne to Manila,2020-09-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+607,NA,Family Leisure,No,Economy Class,Toronto to Kuala Lumpur via Manila,2020-09-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+608,NA,Solo Leisure,Yes,Economy Class,Vancouver to Manila,2020-07-01,4.0,4.0,0.0,0.0,3.0,1,0.0,no
+609,NA,Solo Leisure,Yes,Economy Class,Dammam to Manila,2020-11-01,3.0,3.0,3.0,3.0,3.0,3,3.0,no
+610,NA,Solo Leisure,Yes,Economy Class,Manila to Brisbane,2020-12-01,4.0,5.0,4.0,0.0,5.0,5,0.0,yes
+611,NA,Solo Leisure,Yes,Economy Class,Tokyo Narita to Cebu,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+612,A321neo,Family Leisure,Yes,Economy Class,Melbourne to Manila,2022-05-01,4.0,2.0,2.0,3.0,5.0,4,2.0,yes
+613,A321,Business,Yes,Economy Class,Jakarta to Manila,2022-06-01,1.0,4.0,2.0,1.0,2.0,1,1.0,no
+614,NA,Business,Yes,Economy Class,Manila to Ho Chi Minh City,2021-11-01,3.0,5.0,2.0,2.0,1.0,1,1.0,no
+615,A320,Solo Leisure,Yes,Economy Class,Manila to Panglao,2022-05-01,4.0,5.0,3.0,0.0,5.0,5,0.0,yes
+616,NA,Couple Leisure,Yes,Business Class,Los Angeles to Australia via Manila,2022-05-01,5.0,5.0,5.0,3.0,1.0,3,1.0,no
+617,NA,Business,No,First Class,Los Angeles to Hong Kong via Manila,2022-05-01,3.0,1.0,1.0,1.0,2.0,2,2.0,no
+618,Boeing 777 / A330 ,Family Leisure,No,Economy Class,Chicago to Manila,2022-04-01,2.0,3.0,3.0,3.0,1.0,2,0.0,no
+619,DHC-8 Dash 8,Solo Leisure,Yes,Economy Class,Legazpi to Manila,2022-05-01,5.0,5.0,4.0,0.0,5.0,5,0.0,yes
+620,A320,Family Leisure,Yes,Economy Class,Manila to Caticlan (Boracay),2022-05-01,4.0,4.0,3.0,0.0,5.0,5,0.0,yes
+621,A330,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2021-04-01,4.0,4.0,4.0,0.0,5.0,5,0.0,yes
+622,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Manila,2021-04-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+623,NA,Business,Yes,Economy Class,Manila to Sydney,2021-04-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+624,NA,Solo Leisure,Yes,Business Class,San Francisco to Manila,2020-05-01,2.0,3.0,0.0,0.0,1.0,1,0.0,no
+625,NA,Solo Leisure,No,Economy Class,Cebu to Tacloban,2021-03-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+626,Boeing 777,Family Leisure,Yes,Economy Class,Manila to Toronto,2021-02-01,1.0,3.0,2.0,2.0,1.0,2,3.0,no
+627,NA,Family Leisure,Yes,Economy Class,Los Angeles to Manila,2020-02-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+628,A330,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2020-12-01,5.0,5.0,4.0,5.0,5.0,5,0.0,yes
+629,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Manila,2020-04-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+630,A320,Solo Leisure,Yes,Economy Class,Cebu to Manila,2020-09-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+631,Boeing 777,Solo Leisure,Yes,Business Class,Los Angeles to Manila,2020-09-01,4.0,5.0,1.0,2.0,2.0,2,1.0,no
+632,NA,Couple Leisure,Yes,Economy Class,Bangkok to London via Manila,2020-03-01,4.0,4.0,0.0,0.0,3.0,1,0.0,no
+633,NA,Family Leisure,Yes,Economy Class,Los Angeles to Manila,2019-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+634,A330,Solo Leisure,No,Economy Class,Riyadh to Manila,2020-01-01,3.0,5.0,5.0,0.0,5.0,5,4.0,yes
+635,A330-300,Business,Yes,Economy Class,Melbourne to Manila,2020-01-01,4.0,5.0,5.0,4.0,2.0,5,4.0,yes
+636,NA,Solo Leisure,Yes,Economy Class,London to Kuala Lumpur via Manila,2020-03-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+637,NA,Solo Leisure,Yes,Economy Class,Manila to Bacolod,2020-02-01,4.0,4.0,0.0,0.0,1.0,3,0.0,no
+638,NA,Family Leisure,Yes,Economy Class,San Francisco to Osaka via Manila,2020-03-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+639,A330-333,Solo Leisure,Yes,Business Class,Honolulu to Manila,2019-10-01,4.0,3.0,4.0,5.0,3.0,3,0.0,yes
+640,NA,Solo Leisure,Yes,Business Class,Davao to Manila,2019-05-01,2.0,4.0,2.0,0.0,4.0,1,0.0,no
+641,NA,Couple Leisure,Yes,Economy Class,Kuala Lumpur to Los Angeles via Manila,2019-09-01,4.0,4.0,4.0,5.0,2.0,3,0.0,no
+642,NA,Business,Yes,Business Class,Brisbane to Manila,2019-09-01,2.0,3.0,2.0,1.0,1.0,2,3.0,no
+643,A330-300,Solo Leisure,Yes,Economy Class,Manila to Riyadh,2019-09-01,4.0,5.0,4.0,4.0,5.0,5,4.0,yes
+644,A350-900,Solo Leisure,Yes,Economy Class,Manila to London Heathrow,2019-09-01,4.0,5.0,4.0,4.0,4.0,5,4.0,yes
+645,A330-300,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2019-09-01,4.0,5.0,4.0,3.0,5.0,5,3.0,yes
+646,A321NEO,Couple Leisure,Yes,Business Class,Brisbane to Manila,2019-09-01,5.0,3.0,5.0,5.0,5.0,3,3.0,yes
+647,A321-200,Business,Yes,Business Class,Manila to Cebu,2019-09-01,5.0,5.0,5.0,0.0,5.0,5,0.0,yes
+648,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+649,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+650,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+651,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+652,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+653,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+654,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+655,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+656,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+657,NA,Solo Leisure,Yes,Economy Class,Singapore to Melbourne via Manila,2022-09-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+658,NA,Solo Leisure,Yes,Economy Class,Puerto Princesa to Cebu,2022-09-01,0.0,0.0,0.0,0.0,2.0,2,0.0,no
+659,NA,Couple Leisure,No,Economy Class,Dubai to Melbourne via Manila,2022-09-01,1.0,2.0,2.0,1.0,1.0,1,1.0,no
+660,NA,Couple Leisure,Yes,Economy Class,Manila to Los Angeles,2022-04-01,1.0,2.0,1.0,1.0,1.0,1,2.0,no
+661,Boeing 777,Solo Leisure,Yes,Economy Class,Manila to Los Angeles ,2022-09-01,3.0,3.0,4.0,3.0,1.0,1,0.0,no
+662,NA,Solo Leisure,Yes,Economy Class,Ho chi Minh City to Los Angeles via Manila,2022-09-01,1.0,1.0,1.0,5.0,1.0,1,1.0,no
+663,NA,Family Leisure,Yes,Economy Class,Kuala Lumpur to Caticlan via Manila,2022-09-01,1.0,2.0,0.0,0.0,1.0,1,0.0,no
+664,NA,Solo Leisure,Yes,Economy Class,Phnomh Pen to San Francisco via Manila,2022-09-01,3.0,5.0,2.0,3.0,1.0,2,3.0,no
+665,NA,Solo Leisure,No,Economy Class,Sydney to Los Angeles via Manila,2022-08-01,1.0,2.0,1.0,0.0,1.0,1,0.0,no
+666,NA,Solo Leisure,Yes,Business Class,Bangkok to Manila,2022-05-01,2.0,5.0,4.0,1.0,1.0,1,1.0,no
+667,NA,Family Leisure,Yes,Economy Class,Bangkok to San Francisco via Manila,2022-04-01,1.0,2.0,2.0,2.0,1.0,2,1.0,no
+668,NA,Solo Leisure,Yes,Economy Class,Ho Chi Minh City to San Francisco via Manila,2022-05-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+669,A330,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2022-04-01,4.0,5.0,4.0,0.0,5.0,5,0.0,yes
+670,NA,Solo Leisure,Yes,Economy Class,Dubai to Manila,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+671,NA,Family Leisure,Yes,Economy Class,Sydney to Manila,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+672,NA,Family Leisure,Yes,Economy Class,Manila to Fukuoka,2020-03-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+673,A321,Solo Leisure,No,Economy Class,Singapore to Manila,2022-03-01,1.0,3.0,2.0,0.0,1.0,1,0.0,no
+674,NA,Family Leisure,Yes,Economy Class,Brisbane to Manila,2022-03-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+675,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+676,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+677,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+678,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+679,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+680,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+681,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+682,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+683,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+684,NA,Family Leisure,No,Business Class,Bangkok to Los Angeles via Manila,2022-08-01,2.0,2.0,1.0,1.0,1.0,1,1.0,no
+685,NA,Solo Leisure,Yes,Economy Class,San Francisco to Manila,2022-08-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+686,NA,Family Leisure,Yes,Economy Class,Los Angeles to Manila,2022-08-01,1.0,1.0,1.0,1.0,2.0,1,1.0,no
+687,A321,Business,Yes,Economy Class,Manila to Jakarta,2022-05-01,4.0,5.0,5.0,4.0,2.0,5,0.0,yes
+688,NA,Solo Leisure,Yes,Economy Class,Manilla to Laoag International Airport,2022-07-01,4.0,5.0,4.0,0.0,3.0,5,0.0,yes
+689,NA,Solo Leisure,Yes,Economy Class,Melbourne to Cebu via Manila,2022-07-01,2.0,4.0,3.0,3.0,2.0,2,1.0,no
+690,Boeing 777,Solo Leisure,Yes,Economy Class,Los Angeles to Cebu via Manila,2022-04-01,3.0,4.0,3.0,3.0,1.0,1,3.0,no
+691,NA,Solo Leisure,No,Economy Class,Sydney to Jakarta via Manila,2022-07-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+692,Boeing 777-200ER,Couple Leisure,Yes,Business Class,Manila to Los Angeles,2022-07-01,2.0,4.0,4.0,2.0,1.0,1,1.0,no
+693,A330,Business,Yes,Economy Class,Incheon via Manila,2019-08-01,1.0,4.0,3.0,0.0,2.0,3,0.0,no
+694,A330-300,Solo Leisure,Yes,Economy Class,Manila to Riyadh,2019-06-01,5.0,5.0,5.0,5.0,5.0,5,5.0,yes
+695,A330-300,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2019-06-01,5.0,5.0,5.0,5.0,4.0,5,5.0,yes
+696,NA,Solo Leisure,Yes,Economy Class,New York to Manila,2019-09-01,3.0,5.0,3.0,4.0,1.0,3,0.0,no
+697,NA,Solo Leisure,Yes,Economy Class,Philippines to Toronto ,2019-04-01,1.0,1.0,2.0,3.0,1.0,1,2.0,no
+698,A321-231,Couple Leisure,Yes,Economy Class,Manila to Cebu,2019-02-01,4.0,5.0,3.0,0.0,4.0,5,0.0,yes
+699,NA,Solo Leisure,Yes,Economy Class,Dubai to Hong Kong via Manila,2019-05-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+700,A330-343,Solo Leisure,Yes,Business Class,Dubai to Manila,2019-01-01,4.0,5.0,4.0,2.0,4.0,4,0.0,yes
+701,A321-200,Business,Yes,Economy Class,Cebu to Manila,2019-08-01,3.0,3.0,0.0,0.0,1.0,2,0.0,no
+702,NA,Solo Leisure,No,Economy Class,Cebu to Clark,2019-12-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+703,NA,Family Leisure,Yes,Economy Class,Manila to Cebu,2019-12-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+704,Boeing 777,Couple Leisure,Yes,Economy Class,Vancouver to Manila,2019-11-01,5.0,5.0,5.0,5.0,5.0,5,0.0,yes
+705,NA,Couple Leisure,Yes,Economy Class,Dubai to Manila,2019-11-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+706,Boeing 777,Couple Leisure,Yes,Business Class,Manila to San Francisco,2019-11-01,5.0,5.0,5.0,4.0,4.0,4,4.0,yes
+707,A320,Solo Leisure,No,Economy Class,Dumaguete to Manila,2019-11-01,2.0,3.0,2.0,0.0,2.0,2,0.0,no
+708,NA,Couple Leisure,Yes,Economy Class,Manila to Melbourne ,2019-09-01,3.0,4.0,3.0,4.0,3.0,4,0.0,yes
+709,NA,Solo Leisure,Yes,Economy Class,Honolulu to Manila,2019-11-01,3.0,1.0,1.0,3.0,3.0,2,3.0,no
+710,NA,Business,Yes,Economy Class,Bangkok to Manila,2019-10-01,4.0,4.0,3.0,5.0,5.0,5,0.0,yes
+711,NA,Couple Leisure,Yes,Economy Class,Vancouver to Manila,2019-12-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+712,A321-200 Neo,Business,Yes,Economy Class,Manila to Nagoya,2020-02-01,5.0,4.0,3.0,5.0,5.0,4,0.0,yes
+713,NA,Solo Leisure,Yes,Economy Class,Manila to London,2020-02-01,4.0,5.0,5.0,5.0,5.0,5,0.0,yes
+714,NA,Solo Leisure,Yes,Economy Class,Tokyo to Bali via Manila,2020-02-01,2.0,3.0,3.0,0.0,1.0,2,0.0,no
+715,A322,Solo Leisure,Yes,Premium Economy,NA,2020-02-01,4.0,5.0,5.0,1.0,5.0,5,0.0,yes
+716,A321,Family Leisure,Yes,Economy Class,Manila to Tokyo Narita,2020-01-01,4.0,5.0,4.0,2.0,3.0,4,0.0,yes
+717,NA,Solo Leisure,Yes,Economy Class,Manila to Dammam,2019-07-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+718,A350-900,Solo Leisure,Yes,Business Class,Manila to Toronto,2019-08-01,5.0,5.0,5.0,5.0,4.0,5,5.0,yes
+719,NA,Solo Leisure,Yes,Economy Class,Auckland to Osaka via Manila,2020-01-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+720,NA,Family Leisure,Yes,Economy Class,Sydney to Manila,2021-12-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+721,NA,Family Leisure,Yes,Economy Class,Toronto to Manila via Vancouver,2021-12-01,3.0,4.0,3.0,4.0,2.0,1,0.0,no
+722,NA,Couple Leisure,Yes,Economy Class,London to Manila,2020-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+723,NA,Solo Leisure,Yes,Business Class,Melbourne to Manila,2020-09-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+724,NA,Family Leisure,No,Economy Class,Toronto to Kuala Lumpur via Manila,2020-09-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+725,NA,Solo Leisure,Yes,Economy Class,Vancouver to Manila,2020-07-01,4.0,4.0,0.0,0.0,3.0,1,0.0,no
+726,NA,Solo Leisure,Yes,Economy Class,Dammam to Manila,2020-11-01,3.0,3.0,3.0,3.0,3.0,3,3.0,no
+727,NA,Solo Leisure,Yes,Economy Class,Manila to Brisbane,2020-12-01,4.0,5.0,4.0,0.0,5.0,5,0.0,yes
+728,NA,Solo Leisure,Yes,Economy Class,Tokyo Narita to Cebu,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+729,A321neo,Family Leisure,Yes,Economy Class,Melbourne to Manila,2022-05-01,4.0,2.0,2.0,3.0,5.0,4,2.0,yes
+730,A321,Business,Yes,Economy Class,Jakarta to Manila,2022-06-01,1.0,4.0,2.0,1.0,2.0,1,1.0,no
+731,NA,Business,Yes,Economy Class,Manila to Ho Chi Minh City,2021-11-01,3.0,5.0,2.0,2.0,1.0,1,1.0,no
+732,A320,Solo Leisure,Yes,Economy Class,Manila to Panglao,2022-05-01,4.0,5.0,3.0,0.0,5.0,5,0.0,yes
+733,NA,Couple Leisure,Yes,Business Class,Los Angeles to Australia via Manila,2022-05-01,5.0,5.0,5.0,3.0,1.0,3,1.0,no
+734,NA,Business,No,First Class,Los Angeles to Hong Kong via Manila,2022-05-01,3.0,1.0,1.0,1.0,2.0,2,2.0,no
+735,Boeing 777 / A330 ,Family Leisure,No,Economy Class,Chicago to Manila,2022-04-01,2.0,3.0,3.0,3.0,1.0,2,0.0,no
+736,DHC-8 Dash 8,Solo Leisure,Yes,Economy Class,Legazpi to Manila,2022-05-01,5.0,5.0,4.0,0.0,5.0,5,0.0,yes
+737,A320,Family Leisure,Yes,Economy Class,Manila to Caticlan (Boracay),2022-05-01,4.0,4.0,3.0,0.0,5.0,5,0.0,yes
+738,A330,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2021-04-01,4.0,4.0,4.0,0.0,5.0,5,0.0,yes
+739,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Manila,2021-04-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+740,NA,Business,Yes,Economy Class,Manila to Sydney,2021-04-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+741,NA,Solo Leisure,Yes,Business Class,San Francisco to Manila,2020-05-01,2.0,3.0,0.0,0.0,1.0,1,0.0,no
+742,NA,Solo Leisure,No,Economy Class,Cebu to Tacloban,2021-03-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+743,Boeing 777,Family Leisure,Yes,Economy Class,Manila to Toronto,2021-02-01,1.0,3.0,2.0,2.0,1.0,2,3.0,no
+744,NA,Family Leisure,Yes,Economy Class,Los Angeles to Manila,2020-02-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+745,A330,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2020-12-01,5.0,5.0,4.0,5.0,5.0,5,0.0,yes
+746,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Manila,2020-04-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+747,A320,Solo Leisure,Yes,Economy Class,Cebu to Manila,2020-09-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+748,Boeing 777,Solo Leisure,Yes,Business Class,Los Angeles to Manila,2020-09-01,4.0,5.0,1.0,2.0,2.0,2,1.0,no
+749,NA,Couple Leisure,Yes,Economy Class,Bangkok to London via Manila,2020-03-01,4.0,4.0,0.0,0.0,3.0,1,0.0,no
+750,NA,Family Leisure,Yes,Economy Class,Los Angeles to Manila,2019-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+751,A330,Solo Leisure,No,Economy Class,Riyadh to Manila,2020-01-01,3.0,5.0,5.0,0.0,5.0,5,4.0,yes
+752,A330-300,Business,Yes,Economy Class,Melbourne to Manila,2020-01-01,4.0,5.0,5.0,4.0,2.0,5,4.0,yes
+753,NA,Solo Leisure,Yes,Economy Class,London to Kuala Lumpur via Manila,2020-03-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+754,NA,Solo Leisure,Yes,Economy Class,Manila to Bacolod,2020-02-01,4.0,4.0,0.0,0.0,1.0,3,0.0,no
+755,NA,Family Leisure,Yes,Economy Class,San Francisco to Osaka via Manila,2020-03-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+756,A330-333,Solo Leisure,Yes,Business Class,Honolulu to Manila,2019-10-01,4.0,3.0,4.0,5.0,3.0,3,0.0,yes
+757,NA,Solo Leisure,Yes,Business Class,Davao to Manila,2019-05-01,2.0,4.0,2.0,0.0,4.0,1,0.0,no
+758,NA,Couple Leisure,Yes,Economy Class,Kuala Lumpur to Los Angeles via Manila,2019-09-01,4.0,4.0,4.0,5.0,2.0,3,0.0,no
+759,NA,Business,Yes,Business Class,Brisbane to Manila,2019-09-01,2.0,3.0,2.0,1.0,1.0,2,3.0,no
+760,A330-300,Solo Leisure,Yes,Economy Class,Manila to Riyadh,2019-09-01,4.0,5.0,4.0,4.0,5.0,5,4.0,yes
+761,A350-900,Solo Leisure,Yes,Economy Class,Manila to London Heathrow,2019-09-01,4.0,5.0,4.0,4.0,4.0,5,4.0,yes
+762,A330-300,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2019-09-01,4.0,5.0,4.0,3.0,5.0,5,3.0,yes
+763,A321NEO,Couple Leisure,Yes,Business Class,Brisbane to Manila,2019-09-01,5.0,3.0,5.0,5.0,5.0,3,3.0,yes
+764,A321-200,Business,Yes,Business Class,Manila to Cebu,2019-09-01,5.0,5.0,5.0,0.0,5.0,5,0.0,yes
+765,NA,Solo Leisure,Yes,Business Class,Manila to Melbourne,2022-11-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+766,A321 / A330,Couple Leisure,Yes,Business Class,Singapore to Melbourne via Manila,2022-10-01,2.0,3.0,2.0,2.0,1.0,3,0.0,no
+767,NA,Couple Leisure,Yes,Economy Class,Los Angeles to Manila,2022-04-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+768,NA,Solo Leisure,No,Economy Class,Manila to San Francisco,2022-11-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+769,NA,Family Leisure,Yes,Economy Class,Canada to Philippines,2022-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+770,NA,Couple Leisure,Yes,Economy Class,Hanoi to Manila,2022-11-01,4.0,4.0,4.0,0.0,4.0,2,0.0,no
+771,NA,Solo Leisure,Yes,Economy Class,Manila via Los Angeles,2022-11-01,3.0,3.0,2.0,3.0,1.0,3,0.0,no
+772,NA,Business,Yes,Economy Class,Manila to Los Angeles,2022-10-01,2.0,1.0,1.0,1.0,4.0,1,1.0,no
+773,NA,Solo Leisure,Yes,Economy Class,Davao to San Francisco via Manila,2022-11-01,3.0,3.0,1.0,0.0,1.0,3,0.0,no
+774,NA,Solo Leisure,Yes,Economy Class,Singapore to Melbourne via Manila,2022-09-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+775,NA,Solo Leisure,Yes,Economy Class,Puerto Princesa to Cebu,2022-09-01,0.0,0.0,0.0,0.0,2.0,2,0.0,no
+776,NA,Couple Leisure,No,Economy Class,Dubai to Melbourne via Manila,2022-09-01,1.0,2.0,2.0,1.0,1.0,1,1.0,no
+777,NA,Couple Leisure,Yes,Economy Class,Manila to Los Angeles,2022-04-01,1.0,2.0,1.0,1.0,1.0,1,2.0,no
+778,Boeing 777,Solo Leisure,Yes,Economy Class,Manila to Los Angeles ,2022-09-01,3.0,3.0,4.0,3.0,1.0,1,0.0,no
+779,NA,Solo Leisure,Yes,Economy Class,Ho chi Minh City to Los Angeles via Manila,2022-09-01,1.0,1.0,1.0,5.0,1.0,1,1.0,no
+780,NA,Family Leisure,Yes,Economy Class,Kuala Lumpur to Caticlan via Manila,2022-09-01,1.0,2.0,0.0,0.0,1.0,1,0.0,no
+781,NA,Solo Leisure,Yes,Economy Class,Phnomh Pen to San Francisco via Manila,2022-09-01,3.0,5.0,2.0,3.0,1.0,2,3.0,no
+782,NA,Solo Leisure,No,Economy Class,Sydney to Los Angeles via Manila,2022-08-01,1.0,2.0,1.0,0.0,1.0,1,0.0,no
+783,NA,Solo Leisure,Yes,Business Class,Bangkok to Manila,2022-05-01,2.0,5.0,4.0,1.0,1.0,1,1.0,no
+784,NA,Family Leisure,Yes,Economy Class,Bangkok to San Francisco via Manila,2022-04-01,1.0,2.0,2.0,2.0,1.0,2,1.0,no
+785,NA,Solo Leisure,Yes,Economy Class,Ho Chi Minh City to San Francisco via Manila,2022-05-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+786,A330,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2022-04-01,4.0,5.0,4.0,0.0,5.0,5,0.0,yes
+787,NA,Solo Leisure,Yes,Economy Class,Dubai to Manila,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+788,NA,Family Leisure,Yes,Economy Class,Sydney to Manila,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+789,NA,Family Leisure,Yes,Economy Class,Manila to Fukuoka,2020-03-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+790,A321,Solo Leisure,No,Economy Class,Singapore to Manila,2022-03-01,1.0,3.0,2.0,0.0,1.0,1,0.0,no
+791,NA,Family Leisure,Yes,Economy Class,Brisbane to Manila,2022-03-01,0.0,0.0,0.0,0.0,0.0,3,0.0,no
+792,A330,Business,Yes,Economy Class,Sydney to Hong Kong via Manila,2022-11-01,4.0,5.0,4.0,5.0,5.0,5,2.0,yes
+793,NA,Family Leisure,No,Economy Class,Manila to Dubai,2022-10-01,3.0,3.0,3.0,0.0,1.0,4,0.0,no
+794,NA,Couple Leisure,Yes,Economy Class,Honolulu to Denpasar via Manila,2022-10-01,3.0,1.0,1.0,4.0,1.0,4,0.0,no
+795,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Melbourne via Manila,2022-10-01,2.0,4.0,3.0,2.0,1.0,3,1.0,no
+796,NA,Solo Leisure,Yes,Economy Class,Del Carme Siago to Denpasar via Manila,2022-10-01,5.0,5.0,0.0,0.0,2.0,2,0.0,no
+797,NA,Couple Leisure,Yes,Economy Class,Manila to Tagbilaran ,2022-10-01,4.0,4.0,1.0,0.0,3.0,1,0.0,no
+798,Boeing 777,Couple Leisure,No,Economy Class,Los Angeles to Manila,2022-09-01,1.0,3.0,1.0,1.0,2.0,1,1.0,no
+799,Boeing 777,Solo Leisure,Yes,Business Class,Vancouver to Bangkok via Manila,2022-10-01,2.0,4.0,3.0,1.0,1.0,2,1.0,no
+800,NA,Couple Leisure,Yes,Economy Class,Manila to Vancouver,2022-09-01,2.0,3.0,3.0,1.0,3.0,2,3.0,no
+801,NA,Family Leisure,No,Business Class,Bangkok to Los Angeles via Manila,2022-08-01,2.0,2.0,1.0,1.0,1.0,1,1.0,no
+802,NA,Solo Leisure,Yes,Economy Class,San Francisco to Manila,2022-08-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+803,NA,Family Leisure,Yes,Economy Class,Los Angeles to Manila,2022-08-01,1.0,1.0,1.0,1.0,2.0,1,1.0,no
+804,A321,Business,Yes,Economy Class,Manila to Jakarta,2022-05-01,4.0,5.0,5.0,4.0,2.0,5,0.0,yes
+805,NA,Solo Leisure,Yes,Economy Class,Manilla to Laoag International Airport,2022-07-01,4.0,5.0,4.0,0.0,3.0,5,0.0,yes
+806,NA,Solo Leisure,Yes,Economy Class,Melbourne to Cebu via Manila,2022-07-01,2.0,4.0,3.0,3.0,2.0,2,1.0,no
+807,Boeing 777,Solo Leisure,Yes,Economy Class,Los Angeles to Cebu via Manila,2022-04-01,3.0,4.0,3.0,3.0,1.0,1,3.0,no
+808,NA,Solo Leisure,No,Economy Class,Sydney to Jakarta via Manila,2022-07-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+809,Boeing 777-200ER,Couple Leisure,Yes,Business Class,Manila to Los Angeles,2022-07-01,2.0,4.0,4.0,2.0,1.0,1,1.0,no
+810,A330,Business,Yes,Economy Class,Incheon via Manila,2019-08-01,1.0,4.0,3.0,0.0,2.0,3,0.0,no
+811,A330-300,Solo Leisure,Yes,Economy Class,Manila to Riyadh,2019-06-01,5.0,5.0,5.0,5.0,5.0,5,5.0,yes
+812,A330-300,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2019-06-01,5.0,5.0,5.0,5.0,4.0,5,5.0,yes
+813,NA,Solo Leisure,Yes,Economy Class,New York to Manila,2019-09-01,3.0,5.0,3.0,4.0,1.0,3,0.0,no
+814,NA,Solo Leisure,Yes,Economy Class,Philippines to Toronto ,2019-04-01,1.0,1.0,2.0,3.0,1.0,1,2.0,no
+815,A321-231,Couple Leisure,Yes,Economy Class,Manila to Cebu,2019-02-01,4.0,5.0,3.0,0.0,4.0,5,0.0,yes
+816,NA,Solo Leisure,Yes,Economy Class,Dubai to Hong Kong via Manila,2019-05-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+817,A330-343,Solo Leisure,Yes,Business Class,Dubai to Manila,2019-01-01,4.0,5.0,4.0,2.0,4.0,4,0.0,yes
+818,A321-200,Business,Yes,Economy Class,Cebu to Manila,2019-08-01,3.0,3.0,0.0,0.0,1.0,2,0.0,no
+819,Q400,Couple Leisure,Yes,Premium Economy,Cebu to Caticlan,2019-06-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+820,Boeing 777 300ER,Family Leisure,Yes,Economy Class,Kuala Lumpur to Vancouver via Manila,2019-07-01,3.0,5.0,5.0,5.0,1.0,5,0.0,yes
+821,NA,Solo Leisure,No,Economy Class,Bangkok to Manila,2019-07-01,1.0,1.0,1.0,1.0,2.0,2,2.0,no
+822,NA,Couple Leisure,Yes,Economy Class,Vancouver to Singapore via Manila,2019-07-01,3.0,1.0,3.0,3.0,1.0,1,0.0,no
+823,NA,Couple Leisure,No,Economy Class,Dumaguete to Manila,2019-07-01,1.0,1.0,1.0,1.0,1.0,1,1.0,no
+824,A321,Business,Yes,Economy Class,Manila to Singapore ,2019-07-01,3.0,1.0,3.0,0.0,1.0,1,0.0,no
+825,A350,Solo Leisure,Yes,Business Class,London to Manila,2019-06-01,4.0,5.0,3.0,4.0,4.0,4,0.0,yes
+826,NA,Solo Leisure,Yes,Economy Class,Manila to Iloilo,2019-06-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+827,Boeing 777-300ER,Solo Leisure,Yes,Economy Class,San Francisco to Manila,2019-06-01,5.0,5.0,5.0,3.0,5.0,4,5.0,yes
+828,NA,Solo Leisure,Yes,Economy Class,Bangkok to London via Manila ,2019-08-01,4.0,3.0,1.0,5.0,3.0,2,2.0,no
+829,NA,Solo Leisure,Yes,Economy Class,Brisbane to Manila,2019-06-01,4.0,5.0,3.0,4.0,2.0,3,0.0,no
+830,A321 / A330,Solo Leisure,Yes,Economy Class,Legazpi to Riyadh via Manila,2019-08-01,4.0,5.0,5.0,4.0,5.0,4,4.0,yes
+831,NA,Solo Leisure,Yes,Business Class,Singapore to Vancouver via Manila,2019-08-01,3.0,4.0,3.0,1.0,2.0,3,1.0,no
+832,NA,Couple Leisure,No,Economy Class,Manila to New York,2019-08-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+833,A350,Family Leisure,Yes,Economy Class,London to Manila,2019-08-01,5.0,5.0,4.0,3.0,5.0,5,0.0,yes
+834,NA,Solo Leisure,Yes,Economy Class,Manila to Toronto,2019-08-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+835,NA,Couple Leisure,Yes,Economy Class,Siargao to Cebu,2019-08-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+836,NA,Family Leisure,Yes,Economy Class,Bangkok to Toronto via Manila,2019-07-01,5.0,5.0,5.0,5.0,1.0,5,5.0,yes
+837,NA,Solo Leisure,No,Economy Class,Cebu to Clark,2019-12-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+838,NA,Family Leisure,Yes,Economy Class,Manila to Cebu,2019-12-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+839,Boeing 777,Couple Leisure,Yes,Economy Class,Vancouver to Manila,2019-11-01,5.0,5.0,5.0,5.0,5.0,5,0.0,yes
+840,NA,Couple Leisure,Yes,Economy Class,Dubai to Manila,2019-11-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+841,Boeing 777,Couple Leisure,Yes,Business Class,Manila to San Francisco,2019-11-01,5.0,5.0,5.0,4.0,4.0,4,4.0,yes
+842,A320,Solo Leisure,No,Economy Class,Dumaguete to Manila,2019-11-01,2.0,3.0,2.0,0.0,2.0,2,0.0,no
+843,NA,Couple Leisure,Yes,Economy Class,Manila to Melbourne ,2019-09-01,3.0,4.0,3.0,4.0,3.0,4,0.0,yes
+844,NA,Solo Leisure,Yes,Economy Class,Honolulu to Manila,2019-11-01,3.0,1.0,1.0,3.0,3.0,2,3.0,no
+845,NA,Business,Yes,Economy Class,Bangkok to Manila,2019-10-01,4.0,4.0,3.0,5.0,5.0,5,0.0,yes
+846,NA,Couple Leisure,Yes,Economy Class,Vancouver to Manila,2019-12-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+847,A321-200 Neo,Business,Yes,Economy Class,Manila to Nagoya,2020-02-01,5.0,4.0,3.0,5.0,5.0,4,0.0,yes
+848,NA,Solo Leisure,Yes,Economy Class,Manila to London,2020-02-01,4.0,5.0,5.0,5.0,5.0,5,0.0,yes
+849,NA,Solo Leisure,Yes,Economy Class,Tokyo to Bali via Manila,2020-02-01,2.0,3.0,3.0,0.0,1.0,2,0.0,no
+850,A322,Solo Leisure,Yes,Premium Economy,NA,2020-02-01,4.0,5.0,5.0,1.0,5.0,5,0.0,yes
+851,A321,Family Leisure,Yes,Economy Class,Manila to Tokyo Narita,2020-01-01,4.0,5.0,4.0,2.0,3.0,4,0.0,yes
+852,NA,Solo Leisure,Yes,Economy Class,Manila to Dammam,2019-07-01,1.0,1.0,1.0,0.0,1.0,1,0.0,no
+853,A350-900,Solo Leisure,Yes,Business Class,Manila to Toronto,2019-08-01,5.0,5.0,5.0,5.0,4.0,5,5.0,yes
+854,NA,Solo Leisure,Yes,Economy Class,Auckland to Osaka via Manila,2020-01-01,0.0,0.0,0.0,0.0,1.0,1,0.0,no
+855,NA,Family Leisure,Yes,Economy Class,Sydney to Manila,2021-12-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+856,NA,Family Leisure,Yes,Economy Class,Toronto to Manila via Vancouver,2021-12-01,3.0,4.0,3.0,4.0,2.0,1,0.0,no
+857,NA,Couple Leisure,Yes,Economy Class,London to Manila,2020-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+858,NA,Solo Leisure,Yes,Business Class,Melbourne to Manila,2020-09-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+859,NA,Family Leisure,No,Economy Class,Toronto to Kuala Lumpur via Manila,2020-09-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+860,NA,Solo Leisure,Yes,Economy Class,Vancouver to Manila,2020-07-01,4.0,4.0,0.0,0.0,3.0,1,0.0,no
+861,NA,Solo Leisure,Yes,Economy Class,Dammam to Manila,2020-11-01,3.0,3.0,3.0,3.0,3.0,3,3.0,no
+862,NA,Solo Leisure,Yes,Economy Class,Manila to Brisbane,2020-12-01,4.0,5.0,4.0,0.0,5.0,5,0.0,yes
+863,NA,Solo Leisure,Yes,Economy Class,Tokyo Narita to Cebu,2021-05-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+864,A321neo,Family Leisure,Yes,Economy Class,Melbourne to Manila,2022-05-01,4.0,2.0,2.0,3.0,5.0,4,2.0,yes
+865,A321,Business,Yes,Economy Class,Jakarta to Manila,2022-06-01,1.0,4.0,2.0,1.0,2.0,1,1.0,no
+866,NA,Business,Yes,Economy Class,Manila to Ho Chi Minh City,2021-11-01,3.0,5.0,2.0,2.0,1.0,1,1.0,no
+867,A320,Solo Leisure,Yes,Economy Class,Manila to Panglao,2022-05-01,4.0,5.0,3.0,0.0,5.0,5,0.0,yes
+868,NA,Couple Leisure,Yes,Business Class,Los Angeles to Australia via Manila,2022-05-01,5.0,5.0,5.0,3.0,1.0,3,1.0,no
+869,NA,Business,No,First Class,Los Angeles to Hong Kong via Manila,2022-05-01,3.0,1.0,1.0,1.0,2.0,2,2.0,no
+870,Boeing 777 / A330 ,Family Leisure,No,Economy Class,Chicago to Manila,2022-04-01,2.0,3.0,3.0,3.0,1.0,2,0.0,no
+871,DHC-8 Dash 8,Solo Leisure,Yes,Economy Class,Legazpi to Manila,2022-05-01,5.0,5.0,4.0,0.0,5.0,5,0.0,yes
+872,A320,Family Leisure,Yes,Economy Class,Manila to Caticlan (Boracay),2022-05-01,4.0,4.0,3.0,0.0,5.0,5,0.0,yes
+873,A330,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2021-04-01,4.0,4.0,4.0,0.0,5.0,5,0.0,yes
+874,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Manila,2021-04-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+875,NA,Business,Yes,Economy Class,Manila to Sydney,2021-04-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+876,NA,Solo Leisure,Yes,Business Class,San Francisco to Manila,2020-05-01,2.0,3.0,0.0,0.0,1.0,1,0.0,no
+877,NA,Solo Leisure,No,Economy Class,Cebu to Tacloban,2021-03-01,1.0,1.0,0.0,0.0,1.0,1,0.0,no
+878,Boeing 777,Family Leisure,Yes,Economy Class,Manila to Toronto,2021-02-01,1.0,3.0,2.0,2.0,1.0,2,3.0,no
+879,NA,Family Leisure,Yes,Economy Class,Los Angeles to Manila,2020-02-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+880,A330,Solo Leisure,Yes,Economy Class,Riyadh to Manila,2020-12-01,5.0,5.0,4.0,5.0,5.0,5,0.0,yes
+881,NA,Solo Leisure,Yes,Economy Class,Los Angeles to Manila,2020-04-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+882,A320,Solo Leisure,Yes,Economy Class,Cebu to Manila,2020-09-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+883,Boeing 777,Solo Leisure,Yes,Business Class,Los Angeles to Manila,2020-09-01,4.0,5.0,1.0,2.0,2.0,2,1.0,no
+884,NA,Couple Leisure,Yes,Economy Class,Bangkok to London via Manila,2020-03-01,4.0,4.0,0.0,0.0,3.0,1,0.0,no
+885,NA,Family Leisure,Yes,Economy Class,Los Angeles to Manila,2019-11-01,3.0,3.0,3.0,3.0,1.0,1,3.0,no
+886,A330,Solo Leisure,No,Economy Class,Riyadh to Manila,2020-01-01,3.0,5.0,5.0,0.0,5.0,5,4.0,yes
+887,A330-300,Business,Yes,Economy Class,Melbourne to Manila,2020-01-01,4.0,5.0,5.0,4.0,2.0,5,4.0,yes
+888,NA,Solo Leisure,Yes,Economy Class,London to Kuala Lumpur via Manila,2020-03-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
+889,NA,Solo Leisure,Yes,Economy Class,Manila to Bacolod,2020-02-01,4.0,4.0,0.0,0.0,1.0,3,0.0,no
+890,NA,Family Leisure,Yes,Economy Class,San Francisco to Osaka via Manila,2020-03-01,0.0,0.0,0.0,0.0,0.0,1,0.0,no
